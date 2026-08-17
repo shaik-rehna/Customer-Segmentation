@@ -6,7 +6,7 @@ Unsupervised learning project for identifying meaningful customer segments from 
 
 ## Overview
 
-This project analyzes the usage behavior of approximately **8.9K credit-card customers** over a six-month period. The objective is to discover customer segments based on spending, purchasing frequency, cash-advance activity, payment behavior, and credit usage without using predefined labels.
+This project analyzes the usage behavior of approximately **8950 credit-card customers** over a six-month period. The objective is to discover customer segments based on spending, purchasing frequency, cash-advance activity, payment behavior, and credit usage without using predefined labels.
 
 The project covers:
 
@@ -23,7 +23,7 @@ The project covers:
 
 ## Dataset
 
-The dataset is the **Credit Card Dataset for Clustering**, containing approximately 9,000 active credit-card customers and 18 columns.
+The dataset is the **Credit Card Dataset for Clustering**, containing 8950 active credit-card customers and 18 columns.
 
 Dataset source:
 
