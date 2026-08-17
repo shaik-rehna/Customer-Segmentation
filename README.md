@@ -1,5 +1,7 @@
 * EE 353 — Introduction to Data Science and Machine Learning, IIT Bombay
 
+* Guide: Prof. Amit Sethi
+
 # Customer Segmentation
 
 Unsupervised learning project for identifying meaningful customer segments from credit-card usage behavior using **K-Means, DBSCAN, t-SNE, and PCA**.
