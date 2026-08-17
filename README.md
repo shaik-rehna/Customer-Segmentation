@@ -1,6 +1,6 @@
-* EE 353 — Introduction to Data Science and Machine Learning, IIT Bombay
+EE 353 — Introduction to Data Science and Machine Learning, IIT Bombay
 
-* Guide: Prof. Amit Sethi
+Guide: Prof. Amit Sethi
 
 # Customer Segmentation
 
